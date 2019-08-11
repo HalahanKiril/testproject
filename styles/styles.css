@@ -29,7 +29,6 @@
 
 .logotype {
     height: 30px;
-
 }
 
 .logotype__image {
@@ -53,7 +52,7 @@ a.menu__link {
 }
 
 a.menu__link:hover{
-    color: grey;
+    color: navy;
 }
 
 .menu__button {
